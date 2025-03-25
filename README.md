@@ -78,7 +78,7 @@ Apart from my academic and business journey:
 
 ## Contact
 
-🌐 Learn more about my work and get in touch via my business website: [www.aircongases.com](http://www.aircongases.com)
+🌐 Learn more about my work and get in touch via my business website: [www.aircongases.com](http://www.aircongases.in)
 
 📫 You can also reach out here on GitHub or follow my journey as I build useful, tech-powered solutions.
 
